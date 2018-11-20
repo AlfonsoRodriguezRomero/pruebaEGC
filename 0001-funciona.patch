@@ -1,0 +1,23 @@
+From 016db009af3e806072a369c8efbf260ae39a47f1 Mon Sep 17 00:00:00 2001
+From: Alfonso Rodriguez <2aalfonsoromero@gmail.com>
+Date: Tue, 6 Nov 2018 16:01:49 +0100
+Subject: [PATCH] funciona
+
+---
+ hola.txt | 5 +----
+ 1 file changed, 1 insertion(+), 4 deletions(-)
+
+diff --git a/hola.txt b/hola.txt
+index b1770d6..3cd937a 100644
+--- a/hola.txt
++++ b/hola.txt
+@@ -1,4 +1 @@
+-<<<<<<< HEAD
+-aaaaaaaaxdlel
+-=======
+->>>>>>> parent of 92ee454... ajajajjaxd
++esto es una prueba
+\ No newline at end of file
+-- 
+2.9.0.windows.1
+
